@@ -18,3 +18,7 @@ streamlit run frontend/app.py
 ```
 
 Then open http://localhost:8501
+
+
+
+KINDLY REFER THE "ENTIRE PROJECT.pdf" for the codes, as many weren't uploaded due to size issues.
